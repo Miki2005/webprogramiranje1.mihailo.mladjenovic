@@ -13,17 +13,17 @@ function ispisNavigacije(){
 }
 
 function promeni(){
-    if(slika1.src=='https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika6.jpg')
+    if(slika1.src=='https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika6.jpg')
     {
-        slika1.src="https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika7.jpg";
+        slika1.src="https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika7.jpg";
     }
-    else if(slika1.src=='https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika7.jpg')
+    else if(slika1.src=='https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika7.jpg')
     {
-        slika1.src="https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika8.jpg";
+        slika1.src="https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika8.jpg";
     }
-    else if(slika1.src=='https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika8.jpg')
+    else if(slika1.src=='https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika8.jpg')
     {
-        slika1.src="https://nemanjanedeljkovicc.github.io/nemanja-sajt/assets/img/slika6.jpg";
+        slika1.src="https://miki2005.github.io/webprogramiranje1.mihailo.mladjenovic/assets/img/slika6.jpg";
     }
     setTimeout(promeni,3000);
     };
