@@ -1,6 +1,6 @@
 function ispisNavigacije(){
-    let navLink=["index.html","cenovnik.html","contact.html","o_autoru.html"];
-    let navText=["POČETNA","CENOVNIK","KONTAKT","O AUTORU"];
+    let navLink=["index.html","cenovnik.html","contact.html","o_autoru.html", "projekat.zip"];
+    let navText=["POČETNA","CENOVNIK","KONTAKT","O AUTORU", "PROJEKAT"];
     let ispis=`<ul class="navbar-nav ms-auto">`;
     for(let i=0;i<navLink.length;i++)
     {
